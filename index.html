@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Météo</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <style>
+        @font-face {
+            font-family: "Satisfy";
+            src: url("./font/Satisfy-Regular.ttf");
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <img src="./img/sun1.png" alt="Sun">
+        <h1>Ma station m&eacute;t&eacute;o</h1>
+    </header>
+    <!--Contenu principal-->
+    <main>
+        <!--<aside></aside>-->
+        <div>
+            <section id="Ephemeride">
+                <h2>&Eacute;ph&eacute;m&eacute;ride</h2>
+                <!--p*5 pour créer 5 paragraphes/wrap pour envelopper-->
+                <div>
+                    <p>Nous sommes le <span id="date">test date</span></p>
+                    <p>Il est <span id="time">test time</span></p>
+                    <p>Le soleil se l&egrave;ve à <span id="leve"></span> </p>
+                    <p>Et se couche à <span id="couche"></span> </p>
+                    <p>Aujoud'hui nous fêtons <span id="saint">saint</span></p>
+                </div>
+            </section>
+            <section id="tableau">
+                <table>
+                    <tr>
+                        <td>Aujourd'hui</td>
+                        <td><img id= "Aujourd_hui_img" src="./img/pluie.png" alt="Pluie"></td>
+                        <td id= "Aujourd_hui">Aujourd'hui, le temps est pluvieux</td>
+                    </tr>
+                    <tr>
+                        <td>Demain</td>
+                        <td><img src="./img/maussade.png" alt="Maussade"></td>
+                        <td>Demain, le temps sera maussade</td>
+                    </tr>
+                    <tr>
+                        <td>Après-demain</td>
+                        <td><img src="./img/sun.png" alt="Sun"></td>
+                        <td>Après-demain, le temps sera ensoleillé</td>
+                    </tr>
+                </table>
+            </section>
+        </div>
+        <div>
+            <section id="temperatures">
+                <h2>Températures</h2>
+                <div id="temperaturetab">
+                    <div>12</div>
+                    <div>Min</div>
+                    <div>25</div>
+                    <div>Max</div>
+                    <div>18</div>
+                    <div>Moyenne</div>
+                </div>
+            </section>
+        </div>
+    </main>
+    <!--Pied de page-->
+    <footer>
+        <div>
+            &copy;Moâ
+        </div>
+        <div>
+            &Ccedil;a vous plaît ? c'est Moâ qui l'a fait !
+        </div>
+        <div>
+            Contacter <a href="./html/contact.html">Mo&acirc;</a>
+        </div>
+    </footer>
+    <script src="./js/script.js"></script>
+</body>
+
+</html>

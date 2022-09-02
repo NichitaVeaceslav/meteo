@@ -1,0 +1,257 @@
+{
+    "response": {
+        "query": {
+            "jour": "22",
+            "mois": "7",
+            "annee": "2022"
+        },
+        "prenoms": {
+            "majeurs": {
+                "Madeleine": {
+                    "id": "4212",
+                    "sexe": "f\u00e9minin",
+                    "pays": ""
+                },
+                "Marie-Madeleine": {
+                    "id": "292",
+                    "sexe": "f\u00e9minin",
+                    "pays": ""
+                }
+            },
+            "majeur": {
+                "Madeleine": {
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/prenom\/4212\/Madeleine.html"
+                },
+                "Marie-Madeleine": {
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/prenom\/292\/Marie-Madeleine.html"
+                }
+            },
+            "derives": {
+                "Maddalena": {
+                    "id": "6471",
+                    "sexe": "f\u00e9minin",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/prenom\/6471\/Maddalena.html"
+                },
+                "Maddy": {
+                    "id": "5447",
+                    "sexe": "f\u00e9minin",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/prenom\/5447\/Maddy.html"
+                },
+                "Madelaine": {
+                    "id": "4215",
+                    "sexe": "f\u00e9minin",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/prenom\/4215\/Madelaine.html"
+                },
+                "Madeline": {
+                    "id": "4214",
+                    "sexe": "f\u00e9minin",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/prenom\/4214\/Madeline.html"
+                },
+                "Madelon": {
+                    "id": "4213",
+                    "sexe": "f\u00e9minin",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/prenom\/4213\/Madelon.html"
+                },
+                "Madelyne": {
+                    "id": "4216",
+                    "sexe": "f\u00e9minin",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/prenom\/4216\/Madelyne.html"
+                },
+                "Magdeleine": {
+                    "id": "6369",
+                    "sexe": "f\u00e9minin",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/prenom\/6369\/Magdeleine.html"
+                },
+                "Maialen": {
+                    "id": "4486",
+                    "sexe": "f\u00e9minin",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/prenom\/4486\/Maialen.html"
+                },
+                "Malena": {
+                    "id": "5235",
+                    "sexe": "f\u00e9minin",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/prenom\/5235\/Malena.html"
+                },
+                "Marl\u00e8ne": {
+                    "id": "4267",
+                    "sexe": "f\u00e9minin",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/prenom\/4267\/Marlene.html"
+                },
+                "Rogeleine": {
+                    "id": "6556",
+                    "sexe": "f\u00e9minin",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/prenom\/6556\/Rogeleine.html"
+                },
+                "Magali": {
+                    "id": "4367",
+                    "sexe": "f\u00e9minin",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/prenom\/4367\/Magali.html"
+                },
+                "Magda": {
+                    "id": "6094",
+                    "sexe": "f\u00e9minin",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/prenom\/6094\/Magda.html"
+                },
+                "Magdalena": {
+                    "id": "4555",
+                    "sexe": "f\u00e9minin",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/prenom\/4555\/Magdalena.html"
+                },
+                "Maguelonne": {
+                    "id": "4237",
+                    "sexe": "f\u00e9minin",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/prenom\/4237\/Maguelonne.html"
+                },
+                "Marie-Madel\u00e8ne": {
+                    "id": "5262",
+                    "sexe": "f\u00e9minin",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/prenom\/5262\/Marie-Madelene.html"
+                },
+                "Marie-Magdeleine": {
+                    "id": "6370",
+                    "sexe": "f\u00e9minin",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/prenom\/6370\/Marie-Magdeleine.html"
+                }
+            }
+        },
+        "saints": {
+            "majeurs": {
+                "Marie-Madeleine": {
+                    "id": "1549",
+                    "valeur": "Sainte Marie-Madeleine",
+                    "resume": "p\u00e9nitente, disciple du Christ (I<sup>er<\/sup> si\u00e8cle)",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/saint\/1549\/Sainte-Marie-Madeleine.html",
+                    "description": "Elle est la premi\u00e8re \u00e0 rencontrer le Christ ressuscit\u00e9, elle est la premi\u00e8re \u00e0 lui rendre t\u00e9moignage devant les Ap\u00f4tres. C'est pour cela qu'on l'a m\u00eame appel\u00e9e 'l'ap\u00f4tre des Ap\u00f4tres'.Outre Marie, m\u00e8re de J\u00e9sus, les \u00e9vangiles nous parlent de plusieurs Marie. Nous f\u00eatons aujourd'hui Marie de Magdala, Madeleine dont J\u00e9sus avait chass\u00e9 sept d\u00e9mons. Depuis, elle le suivait partout o\u00f9 il allait, faisant partie de ce groupe de femmes qui servaient le Ma\u00eetre et les ap\u00f4tres. Lors du crucifiement, elle se tient \u00e0 distance, mais, apr\u00e8s la descente de croix, elle suit Joseph d'Arimathie, remarque ce qui se passe et reviendra, avec une autre Marie, au matin de P\u00e2ques pour les rites de s\u00e9pulture. C'est elle qui, la premi\u00e8re, recevra la r\u00e9v\u00e9lation du Christ ressuscit\u00e9 quand le jardinier se fait reconna\u00eetre. \"Rabbouni, Ma\u00eetre\" c'est son acte de foi. Le culte de Marie Madeleine connut un grand d\u00e9veloppement en France \u00e0 la Sainte Baume, dans le sud de la France, et surtout \u00e0 V\u00e9zelay.- \u00e0 lire: Le culte de Marie Madeleine en Occident des origines \u00e0 la fin du moyen \u00e2ge.- Basilique de V\u00e9zelay.- D\u00e9couvrez aussi\u00a0la grotte o\u00f9 selon la tradition de Provence sainte Marie-Madeleine aurait v\u00e9cu les trente derni\u00e8res ann\u00e9es de sa vie.- Elle est la patronne du dioc\u00e8se du Var - D\u00e8s les premiers si\u00e8cles chr\u00e9tiens, p\u00e9nitents, saints, rois, papes viennent accomplir leur p\u00e8lerinage \u00e0 la grotte de la Sainte-Baume aupr\u00e8s de sainte Marie-Madeleine. (dioc\u00e8se de Fr\u00e9jus-Toulon)- Marie-Madeleine fera d\u00e9sormais l'objet d'une f\u00eate liturgique (Radio Vatican): 'Sainte Marie-Madeleine est un exemple d'une v\u00e9ritable et authentique \u00e9vang\u00e9lisatrice, c'est-\u00e0-dire d'une \u00e9vang\u00e9liste qui annonce le joyeux message central de la P\u00e2que. Le Pape Fran\u00e7ois a pris cette d\u00e9cision pr\u00e9cis\u00e9ment dans le contexte du jubil\u00e9 de la mis\u00e9ricorde pour signifier l'importance de cette femme qui manifesta un grand amour envers le Christ et qui fut tant aim\u00e9e du Christ.' Arthur Roche, archev\u00eaque secr\u00e9taire de la Congr\u00e9gation pour le culte divin et la discipline des sacrements.- L'\u00e9glise de Charnay-l\u00e8s-M\u00e2con lui est d\u00e9di\u00e9e.- Marie-Madeleine est souvent repr\u00e9sent\u00e9e dans les \u00e9glises de Sa\u00f4ne et Loire.vid\u00e9os:- vid\u00e9o: Marie-Madeleine avec fr\u00e8re David Macaire, dominicain et Enguerrand Gu\u00e9py, \u00e9crivain, \u00e9mission 'la Foi prise au mot' KTO- Marie-Madeleine: La femme qui a combattu pour la saintet\u00e9 et pour l'annonce de la Bonne Nouvelle, messe \u00e0 Magdala, petit village de Galil\u00e9e o\u00f9 la sainte a v\u00e9cu (Christian Media Center)D\u00e9livr\u00e9e de sept d\u00e9mons par le Seigneur J\u00e9sus, elle s'attacha avec amour \u00e0 ses pas, le suivit jusqu'au Calvaire et m\u00e9rita, au matin de P\u00e2ques, de voir le Sauveur ressuscit\u00e9 d'entre les morts et de porter aux autres disciples l'annonce de la R\u00e9surrection.\"Femme, pourquoi pleures-tu ? Qui cherches-tu ? Celui que tu cherches, tu le poss\u00e8des et tu ne le sais pas ? Tu as la vraie et l'\u00e9ternelle joie, et tu pleures ? Elle est au plus intime de ton \u00eatre et tu cherches au dehors. Ton c\u009cur est mon tombeau. Je n'y suis pas mort, mais j'y repose vivant pour toujours. \"(Pri\u00e8re d'un moine inconnu du 13\u00e8me s.)"
+                }
+            },
+            "autres": {
+                "Anastase": {
+                    "valeur": "Saint Anastase",
+                    "id": "10514",
+                    "resume": "moine dans les monts du Caucase (&#10013; 662)",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/saint\/10514\/Saint-Anastase.html"
+                },
+                "Anne, Lucie, Andr\u00e9 et Marie": {
+                    "valeur": "Saints Anne, Lucie, Andr\u00e9 et Marie",
+                    "id": "11994",
+                    "resume": "martyrs en Chine (&#10013; 1900)",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/saint\/11994\/Saints-Anne--Lucie--Andre-et-Marie.html"
+                },
+                "Augustin Fangi de Biella": {
+                    "valeur": "Bienheureux Augustin Fangi de Biella",
+                    "id": "11998",
+                    "resume": "pr\u00eatre dominicain (&#10013; 1493)",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/saint\/11998\/Bienheureux-Augustin-Fangi-de-Biella.html"
+                },
+                "Baudry": {
+                    "valeur": "Saint Baudry",
+                    "id": "7647",
+                    "resume": "fondateur de l'abbaye de Montfaucon (VII<sup>e<\/sup> si\u00e8cle)",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/saint\/7647\/Saint-Baudry.html"
+                },
+                "Corneille de Pereyaslav": {
+                    "valeur": "Saint Corneille de Pereyaslav",
+                    "id": "7652",
+                    "resume": "(&#10013; 1693)",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/saint\/7652\/Saint-Corneille-de-Pereyaslav.html"
+                },
+                "Cyrille": {
+                    "valeur": "Saint Cyrille",
+                    "id": "7657",
+                    "resume": "Ev\u00eaque \u00e0 Antioche (&#10013; 306)",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/saint\/7657\/Saint-Cyrille.html"
+                },
+                "Gautier": {
+                    "valeur": "Saint Gautier",
+                    "id": "7662",
+                    "resume": "fondateur de la Maison hospitali\u00e8re de la Mis\u00e9ricorde de Lodi (&#10013; 1224)",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/saint\/7662\/Saint-Gautier.html"
+                },
+                "Jacques Lombardie": {
+                    "valeur": "Bienheureux Jacques Lombardie",
+                    "id": "11995",
+                    "resume": "cur\u00e9 de Saint-Hilaire-de-Foissac (Corr\u00e8ze) (&#10013; 1794)",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/saint\/11995\/Bienheureux-Jacques-Lombardie.html"
+                },
+                "J\u00e9r\u00f4me": {
+                    "valeur": "Saint J\u00e9r\u00f4me",
+                    "id": "11999",
+                    "resume": "\u00e9v\u00eaque de Pavie (VIII<sup>e<\/sup> si\u00e8cle)",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/saint\/11999\/Saint-Jerome.html"
+                },
+                "Joseph de Palestine": {
+                    "valeur": "Saint Joseph de Palestine",
+                    "id": "12643",
+                    "resume": "la\u00efc (&#10013; v. 356)",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/saint\/12643\/Saint-Joseph-de-Palestine.html"
+                },
+                "Laurent de Brindisi": {
+                    "valeur": "Saint Laurent de Brindisi",
+                    "id": "11997",
+                    "resume": "Lisbonne",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/saint\/11997\/Saint-Laurent-de-Brindisi.html"
+                },
+                "Lewine": {
+                    "valeur": "Sainte Lewine",
+                    "id": "7667",
+                    "resume": "martyre (IV<sup>e<\/sup> si\u00e8cle)",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/saint\/7667\/Sainte-Lewine.html"
+                },
+                "Mar\u00eda In\u00e9s Teresa Arias Espinosa": {
+                    "valeur": "Bienheureuse Mar\u00eda In\u00e9s Teresa Arias Espinosa",
+                    "id": "13394",
+                    "resume": "religieuse mexicaine fondatrice (&#10013; 1981)",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/saint\/13394\/Bienheureuse-Maria-Ines-Teresa-Arias-Espinosa.html"
+                },
+                "martyrs Massilitains": {
+                    "valeur": "Saints martyrs Massilitains",
+                    "id": "12000",
+                    "resume": "martyrs en Tunisie (III<sup>e<\/sup> si\u00e8cle)",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/saint\/12000\/Saints-martyrs-Massilitains.html"
+                },
+                "Mary Aikenhead": {
+                    "valeur": "V\u00e9n\u00e9rable Mary Aikenhead",
+                    "id": "12980",
+                    "resume": "fondatrice de la congr\u00e9gation de la Charit\u00e9 en Irlande (&#10013; 1858)",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/saint\/12980\/Venerable-Mary-Aikenhead.html"
+                },
+                "M\u00e9n\u00e9l\u00e9": {
+                    "valeur": "Saint M\u00e9n\u00e9l\u00e9",
+                    "id": "10002",
+                    "resume": "abb\u00e9, osb (&#10013; v. 720)",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/saint\/10002\/Saint-Menele.html"
+                },
+                "Panchaire": {
+                    "valeur": "Saint Panchaire",
+                    "id": "11092",
+                    "resume": "\u00e9v\u00eaque de Besan\u00e7on (&#10013; v. 346)",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/saint\/11092\/Saint-Panchaire.html"
+                },
+                "Philippe Evans et Jean Lloyd": {
+                    "valeur": "Saints Philippe Evans et Jean Lloyd",
+                    "id": "11996",
+                    "resume": "pr\u00eatres et martyrs au Pays-de-Galles (&#10013; 1679)",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/saint\/11996\/Saints-Philippe-Evans-et-Jean-Lloyd.html"
+                },
+                "Platon": {
+                    "valeur": "Saint Platon",
+                    "id": "9226",
+                    "resume": "Jeune martyr en Galatie (IV<sup>e<\/sup> si\u00e8cle)",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/saint\/9226\/Saint-Platon.html"
+                },
+                "Syntyche": {
+                    "valeur": "Sainte Syntyche",
+                    "id": "11035",
+                    "resume": "de l'\u00c9glise de Philippes (I<sup>er<\/sup> si\u00e8cle)",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/saint\/11035\/Sainte-Syntyche.html"
+                },
+                "Wandrille": {
+                    "valeur": "Saint Wandrille",
+                    "id": "1550",
+                    "resume": "abb\u00e9 \u00e0 Fontenelle (&#10013; 668)",
+                    "lien": "http:\/\/nominis.cef.fr:80\/contenus\/saint\/1550\/Saint-Wandrille.html"
+                }
+            }
+        }
+    }
+}

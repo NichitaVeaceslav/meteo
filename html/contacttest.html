@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <!--dire dans quel serveur la requête est envoyée-->
+    <!--get : récupérer l'info sur le serveur-->
+    <!--enctype : quel type de contenu est envoyé-->
+    <form action="#" method="get" enctype="multipart/form-data">
+        <fieldset>
+            <legend>Votre identité</legend>
+            <input type="button">
+            <input type="color">
+            <input type="date" min="2010-01-01" max="2015-01-01">
+            <input type="number" min=0 step ="10">
+            <input type="email">
+            <input type="text" list="maliste" pattern=[0-9]>
+            <datalist id="maliste">
+                <option value="Abeille"></option>
+                <option value="Abricot"></option>
+            </datalist>
+            <input type="file" accept=".jpg,.png,.ico">
+            <input type="image">
+            <input type="password">
+            <select name="Choix" size="4">
+                <option value="Choix1">
+                    Choix 1
+                </option>
+                <option value="Choix2">
+                    Choix 2
+                </option>
+                <option value="Choix3">
+                    Choix 3
+                </option>
+            </select>
+            <div>
+                <label for="nom">Nom</label>
+                <input readonly disabled type="text" name="nom" placeholder="Votre nom" id="nom">
+            </div>
+            <div>
+                <label for="prenom">Prenom</label>
+                <input type="text" name="prenom" placeholder="Votre prénom" id="prenom">
+            </div>
+            <div>
+                Votre genre :
+                <input type="radio" name="genre" id="homme" value="homme" disabled>
+                <label for="homme">Masculin</label>
+                <input type="radio" name="genre" id="femme" value="femme" checked>
+                <label for="femme">Féminin</label>
+                <input type="radio" name="genre" id="homme" value="homme">
+                <label for="autre">Autre</label>
+            </div>
+            <div>
+                <label for="age">Votre âge :</label> 
+                <input type="text" name="age" id="age" placeholder="Votre âge">
+            </div>
+        </fieldset>
+        <fieldset>
+            <legend>Parlez-nous de vous</legend>
+            <div>Vos saisons favorites
+                <input type="checkbox" name="saisons" value="printemps" id="printemps">
+                <label for="foot">Printemps</label>
+                <input type="checkbox" name="saisons" value="ete" id="ete">
+                <label for="ete">&Eacute;té</label>
+                <input type="checkbox" name="saisons" value="automne" id="automne">
+                <label for="automne">Automne</label>
+                <input type="checkbox" name="saisons" value="hiver" id="hiver">
+                <label for="hiver">Hiver</label>
+            </div>
+        </fieldset>
+        <fieldset>
+            <legend>Vos commentaires</legend>
+            <textarea name="comment" id="comment" cols="30" rows="10"></textarea>
+        </fieldset>
+        <fieldset>
+            <input type="submit" value="Envoyé">
+            <input type="reset" value="Annulé">
+        </fieldset>
+    </form>
+
+</body>
+
+</html>

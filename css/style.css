@@ -1,0 +1,200 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+    background: lightcyan;
+}
+
+caption {
+    text-align: right;
+    caption-side: bottom;
+    /* au lieu de top */
+}
+
+td {
+    border: 1px solid grey;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 70px;
+}
+
+td:nth-of-type(2) {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(0, 53, 0);
+    font-family: Arial;
+    font-size: 14px;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: "Satisfy";
+}
+
+main {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    align-items: flex-end;
+}
+
+h1 {
+    font-family: "Satisfy";
+    font-size: 75px;
+    margin: 20px;
+    font-weight: 100;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+main div section h2,
+main div section div {
+    padding: 10px;
+
+    margin-bottom: 10px;
+}
+
+main div section {
+    padding-top: 10px;
+    background-color: lightcyan;
+}
+
+#tableau {
+    padding-top: 0px;
+    height: 235px;
+}
+
+main div section h2 {
+    display: inline;
+    padding: 5px;
+    margin: 5px;
+}
+
+#temperatures {
+    height: 426px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: lightcyan;
+    margin-left: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#temperatures div div {
+    margin: 0px;
+}
+
+/*Les cercles autour des températures*/
+#temperatures div div:nth-of-type(2n-1) {
+    width: 60px;
+    line-height: 60px;
+    border-radius: 50%;
+    font-size: 35px;
+    border: 1px solid black;
+}
+
+#temperatures div div:nth-of-type(1) {
+    background-color: rgb(0, 162, 255);
+}
+
+#temperatures div:nth-of-type(3) {
+    background-color: rgb(255, 120, 134);
+}
+
+#temperatures div:nth-of-type(5) {
+    background-color: rgb(146, 255, 56);
+}
+
+p {
+    margin: 10px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    color: white;
+}
+
+a {
+    color: yellow;
+}
+
+
+
+/*///////// Media queries /////////////*/
+@media (max-width:500px) {
+    /*'section' pour tester 
+    le portage (tablette/tel)*/
+    h1 {
+        font-size: 42px;
+    }
+    main {
+        flex-direction: column;
+        align-items: center;
+    }
+    #Ephemeride {
+        margin: auto;
+        /* width:400px; */
+    }
+    #tableau {
+        margin: auto;
+    }
+    #temperatures {
+        margin: auto;
+        margin-top: 13px;
+        /* width:400px; */
+    }
+    footer {
+        margin-top: 10px;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media (min-width:501px) and (max-width:800px) {
+    /* 'section' pour tester le portage (tablette/tel)*/
+    /* section {
+        border: 2px solid red;
+    }  */
+
+    h1 {
+        font-size: 50px;
+    }
+
+    /* #temperatures {
+        margin: 0% 5%;
+    }
+
+    #tableau {
+        margin: 0% 5%;
+    }
+
+    #Ephemeride {
+        margin: 0% 5%;
+    } */
+
+    footer div {
+        margin-top: 50px;
+    }
+}
+
+@media (min-width:800px) {
+    /* 'section' pour tester le portage (PC)
+    section {
+        border: 2px solid red;
+    } */
+
+    footer div {
+        margin-top: 50px;
+    }
+}

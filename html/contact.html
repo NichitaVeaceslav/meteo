@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    <script src="./contact.js"></script>
+    <style>
+        .ok {
+            border-color: rgba(68, 191, 68, 0.75);
+        }
+
+        .ok:focus {
+            border-color: rgba(68, 191, 68, 0.75);
+            box-shadow: 0 0 8px rgba(68, 191, 68, 0.5);
+        }
+
+        .nok {
+            border-color: rgba(191, 68, 68, 0.75);
+        }
+
+        .nok:focus {
+            border-color: rgba(191, 68, 68, 0.75);
+            box-shadow: 0 0 8px rgba(191, 68, 68, 0.5);
+        }
+    </style>
+</head>
+
+<body>
+    <!--dire dans quel serveur la requête est envoyée-->
+    <!--get : récupérer l'info sur le serveur-->
+    <!--enctype : quel type de contenu est envoyé-->
+    <form id="contactform">
+        <fieldset>
+            <legend>Votre identité</legend>
+            <div>
+                <label for="nom">Nom</label>
+                <input type="text" name="nom" placeholder="Votre nom" id="nom">
+            </div>
+            <div>
+                <label for="prenom">Prenom</label>
+                <input type="text" name="prenom" placeholder="Votre prénom" id="prenom">
+            </div>
+            <div>
+                Votre genre :
+                <input type="radio" name="genre" id="homme" value="homme">
+                <label for="homme">Masculin</label>
+                <input type="radio" name="genre" id="femme" value="femme">
+                <label for="femme">Féminin</label>
+                <input type="radio" name="genre" id="autre" value="autre">
+                <label for="autre">Autre</label>
+            </div>
+            <div>
+                <label for="age">Votre âge :</label> 
+                <input type="text" name="age" id="age" placeholder="Votre âge">
+            </div>
+        </fieldset>
+        <fieldset>
+            <legend>Parlez-nous de vous</legend>
+            <div>Vos saisons favorites
+                <input type="checkbox" name="saisons" value="printemps" id="printemps">
+                <label for="foot">Printemps</label>
+                <input type="checkbox" name="saisons" value="ete" id="ete">
+                <label for="ete">&Eacute;té</label>
+                <input type="checkbox" name="saisons" value="automne" id="automne">
+                <label for="automne">Automne</label>
+                <input type="checkbox" name="saisons" value="hiver" id="hiver">
+                <label for="hiver">Hiver</label>
+            </div>
+        </fieldset>
+        <fieldset>
+            <legend>Vos commentaires</legend>
+            <textarea name="comment" id="comment" cols="30" rows="10"></textarea>
+        </fieldset>
+        <fieldset>
+            <input type="submit" name="submit" id="submit" value="Envoyé">
+            <input type="reset" value="Annulé">
+        </fieldset>
+    </form>
+
+</body>
+
+</html>
